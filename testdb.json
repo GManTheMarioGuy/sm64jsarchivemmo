@@ -1,0 +1,94 @@
+{
+  "chats": [
+    {
+      "socketID": 1,
+      "playerName": "Undertale",
+      "ip": "",
+      "timestampMs": 1697676934865,
+      "message": "meet at castle",
+      "adminToken": ""
+    },
+    {
+      "socketID": 3,
+      "playerName": "Deltarune",
+      "ip": "",
+      "timestampMs": 1697676937187,
+      "message": "ok",
+      "adminToken": ""
+    },
+    {
+      "socketID": 3,
+      "playerName": "Deltarune",
+      "ip": "",
+      "timestampMs": 1697677022749,
+      "message": "lemme reconncet",
+      "adminToken": ""
+    },
+    {
+      "socketID": 1,
+      "playerName": "Undertale",
+      "ip": "",
+      "timestampMs": 1697677025104,
+      "message": "aight",
+      "adminToken": ""
+    },
+    {
+      "socketID": 4,
+      "playerName": "Deltarune",
+      "ip": "",
+      "timestampMs": 1697677035471,
+      "message": "back",
+      "adminToken": ""
+    },
+    {
+      "socketID": 4,
+      "playerName": "Deltarune",
+      "ip": "",
+      "timestampMs": 1697677061497,
+      "message": "got the flag",
+      "adminToken": ""
+    },
+    {
+      "socketID": 1,
+      "playerName": "Undertale",
+      "ip": "",
+      "timestampMs": 1697677126128,
+      "message": "ay mate",
+      "adminToken": ""
+    },
+    {
+      "socketID": 4,
+      "playerName": "Deltarune",
+      "ip": "",
+      "timestampMs": 1697677129901,
+      "message": "ay laddy",
+      "adminToken": ""
+    },
+    {
+      "socketID": 1,
+      "playerName": "Undertale",
+      "ip": "",
+      "timestampMs": 1697677463229,
+      "message": ":bup:",
+      "adminToken": ""
+    },
+    {
+      "socketID": 1,
+      "playerName": "Undertale",
+      "ip": "",
+      "timestampMs": 1697677476200,
+      "message": ":bup.jpg:",
+      "adminToken": ""
+    },
+    {
+      "socketID": 1,
+      "playerName": "Undertale",
+      "ip": "",
+      "timestampMs": 1697677482160,
+      "message": ":kick:",
+      "adminToken": ""
+    }
+  ],
+  "adminCommands": [],
+  "ipList": []
+}
