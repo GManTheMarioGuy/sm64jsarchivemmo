@@ -87,6 +87,46 @@
       "timestampMs": 1697677482160,
       "message": ":kick:",
       "adminToken": ""
+    },
+    {
+      "socketID": 3,
+      "playerName": "Deltarune",
+      "ip": "",
+      "timestampMs": 1697678779913,
+      "message": "punch",
+      "adminToken": ""
+    },
+    {
+      "socketID": 4,
+      "playerName": "Undertale",
+      "ip": "",
+      "timestampMs": 1697678791149,
+      "message": "ow",
+      "adminToken": ""
+    },
+    {
+      "socketID": 3,
+      "playerName": "Deltarune",
+      "ip": "",
+      "timestampMs": 1697678799446,
+      "message": "a",
+      "adminToken": ""
+    },
+    {
+      "socketID": 6,
+      "playerName": "Gaming",
+      "ip": "",
+      "timestampMs": 1697679285577,
+      "message": "sup",
+      "adminToken": ""
+    },
+    {
+      "socketID": 7,
+      "playerName": "Drok27",
+      "ip": "",
+      "timestampMs": 1697679287434,
+      "message": "hi",
+      "adminToken": ""
     }
   ],
   "adminCommands": [],
